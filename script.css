@@ -1,0 +1,98 @@
+body {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+}
+
+li {
+    margin-top: 79px;
+}
+
+header {
+    background-color: #EEEFF1;
+    height: 700px;
+}
+
+li.active{
+    color: #34547A;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #34547A;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-top: 25px;
+    font-size: 15px;
+    margin-right: 413px;
+}
+
+.img_main {
+    margin-left: 402px;
+    margin-right: 398px;
+    margin-top: 57px;
+}
+
+.ogl {
+    display: flex;
+    margin-left: 487px;
+}
+
+.img_nb {
+    margin-top: 161px;
+}
+
+.text {
+    margin-top: 162px;
+    margin-left: 153px;
+}
+
+.dezain {
+    display: flex;
+    font-size: 48px;
+}
+
+.text1 {
+    margin-top: 60px;
+    margin-right: 405px;
+    color: #727272;
+    font-size: 16px;
+}
+
+.button_contacts {
+    margin-top: 50px;
+    border: 1px solid #34547A;
+    margin-right: 700px;
+    background-color: #34547A;
+    height: 50px;
+}
+
+.button {
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+
+.zagolovok {
+    text-align: center;
+    margin-top: 119px;
+}
+
+.lorem {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 690px;
+    margin-right: 690px;
+    margin-bottom: 100px;
+    color: #727272;
+    font-size: 16px;
+}
